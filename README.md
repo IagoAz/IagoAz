@@ -2,7 +2,7 @@
 <h3 align="left">Passionate about technology, I'm curious to understand everything that appears on my monitor and what happens behind it.</h3>
 
 <li>🌱 I'm learning a bit of everything 🤣</li>
-<li>🔭 I’m currently working on Fitpass</li>
+<li>🔭 I’m currently working on <a href="https://github.com/IagoAz/FitPass">Fitpass</li></a>
 
 
 ---
